@@ -2,7 +2,7 @@
  * freezeframe.js v3.0.10
  * MIT License
  */
-
+debugger;
 var freezeframe = (function($) {
 
   var images, options, is_touch_device;
